@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 17\RequestControl\RequestControl\obj\Debug\RequestControl.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 17\RequestControl\RequestControl\bin\RequestControl.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 17\RequestControl\RequestControl\bin\RequestControl.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 17\RequestControl\RequestControl\obj\Debug\RequestControl.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 17\RequestControl\RequestControl\obj\Debug\RequestControl.pdb

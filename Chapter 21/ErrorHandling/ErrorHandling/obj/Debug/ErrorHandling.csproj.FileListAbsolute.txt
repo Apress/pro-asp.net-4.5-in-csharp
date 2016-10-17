@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 21\ErrorHandling\ErrorHandling\bin\ErrorHandling.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 21\ErrorHandling\ErrorHandling\bin\ErrorHandling.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 21\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 21\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 21\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb

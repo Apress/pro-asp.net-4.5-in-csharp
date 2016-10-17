@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 32\ControlState\ControlState\bin\ControlState.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 32\ControlState\ControlState\bin\ControlState.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 32\ControlState\ControlState\obj\Debug\ControlState.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 32\ControlState\ControlState\obj\Debug\ControlState.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 32\ControlState\ControlState\obj\Debug\ControlState.csprojResolveAssemblyReference.cache

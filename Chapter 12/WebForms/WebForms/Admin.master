@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Top.Master" 
+    AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="WebForms.Admin" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        h2.sectionTitle {
+            text-align: center;
+            border: medium solid black;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="pageHead" runat="server" />
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="sectionHeader" runat="server">
+    <h2 class="sectionTitle">Administration</h2>
+</asp:Content>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="mainContent" runat="server">
+    <asp:ContentPlaceHolder ID="pageContent" runat="server" />
+</asp:Content>

@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" 
+    CodeBehind="Top.master.cs" Inherits="WebForms.Top" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        body { font-family: sans-serif; }
+        h1.title { text-align: center; background-color: black; color: white;}
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1 class="title">MyApplication</h1>
+    <asp:ContentPlaceHolder ID="sectionHeader" runat="server" />
+    <div><asp:ContentPlaceHolder ID="mainContent" runat="server" /></div>
+</body>
+</html>

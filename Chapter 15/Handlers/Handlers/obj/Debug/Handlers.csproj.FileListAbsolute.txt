@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 15\Handlers\Handlers\bin\Handlers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 15\Handlers\Handlers\bin\Handlers.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 15\Handlers\Handlers\obj\Debug\Handlers.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 15\Handlers\Handlers\obj\Debug\Handlers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 15\Handlers\Handlers\obj\Debug\Handlers.pdb

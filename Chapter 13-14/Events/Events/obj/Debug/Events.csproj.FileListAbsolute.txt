@@ -1,0 +1,7 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\bin\Events.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\bin\Events.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\obj\Debug\Events.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\obj\Debug\Events.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\bin\CommonModules.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 13-14\Events\Events\bin\CommonModules.pdb

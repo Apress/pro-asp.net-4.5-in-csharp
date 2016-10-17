@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 29\WorkingWithControls\WorkingWithControls\bin\WorkingWithControls.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 29\WorkingWithControls\WorkingWithControls\bin\WorkingWithControls.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 29\WorkingWithControls\WorkingWithControls\obj\Debug\WorkingWithControls.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 29\WorkingWithControls\WorkingWithControls\obj\Debug\WorkingWithControls.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 29\WorkingWithControls\WorkingWithControls\obj\Debug\WorkingWithControls.pdb

@@ -1,0 +1,61 @@
+﻿BODY { font-family: Cambria, Georgia, "Times New Roman"; margin: 0; }
+DIV#header DIV.title, DIV.item H3, DIV.item H4, DIV.pager A {
+    font: bold 1em "Arial Narrow", "Franklin Gothic Medium", Arial;
+}
+DIV#header { background-color: #444; border-bottom: 2px solid #111; color: White; }
+DIV#header DIV.title { font-size: 2em; padding: .6em; }
+DIV#content { border-left: 2px solid gray; margin-left: 9em; padding: 1em; }
+DIV#categories { float: left; width: 8em; padding: .3em; }
+
+DIV.item { border-top: 1px dotted gray; padding-top: .7em; margin-bottom: .7em; }
+DIV.item:first-child { border-top:none; padding-top: 0; }
+DIV.item H3 { font-size: 1.3em; margin: 0 0 .25em 0; }
+DIV.item H4 { font-size: 1.1em; margin:.4em 0 0 0; }
+
+DIV.pager { text-align:right; border-top: 2px solid silver;
+    padding: .5em 0 0 0; margin-top: 1em; }
+DIV.pager A { font-size: 1.1em; color: #666; text-decoration: none;
+      padding: 0 .4em 0 .4em; }
+DIV.pager A:hover { background-color: Silver; }
+DIV.pager A.selected { background-color: #353535; color: White; }
+
+DIV#categories A
+{
+    font: bold 1.1em "Arial Narrow","Franklin Gothic Medium",Arial; display: block;
+    text-decoration: none; padding: .6em; color: Black;
+    border-bottom: 1px solid silver;
+}
+DIV#categories A.selected { background-color: #666; color: White; }
+DIV#categories A:hover { background-color: #CCC; }
+DIV#categories A.selected:hover { background-color: #666; }
+
+DIV.item BUTTON {
+    color:White; background-color: #333; border: 1px solid black; float: right; 
+}
+
+H2 { margin-top: 0.3em }
+#cartTable { width: 90%;}
+#cartTable TFOOT TD { border-top: 1px dotted gray; font-weight: bold; }
+#cartTable thead th { text-align: right;}
+#cartTable thead th:first-child { text-align: center;}
+#cartTable thead th:nth-child(2) { text-align: left;}
+#cartTable tbody td { text-align: right;}
+#cartTable tbody td:first-child { text-align: center;}
+#cartTable tbody td:nth-child(2) { text-align: left;}
+#cartTable tfoot tr td { text-align: right;}
+p.actionButtons { text-align: center;}
+.actionButtons A, button.actionButtons {
+    font: .8em Arial; color: White; margin: .5em;
+    text-decoration: none; padding: .15em 1.5em .2em 1.5em;
+    background-color: #353535; border: 1px solid black;
+}
+
+
+DIV#cartSummary { float:right; margin: .8em; color: Silver; 
+   background-color: #555; padding: .5em .5em .5em 1em; }
+DIV#cartSummary A { text-decoration: none; padding: .4em 1em .4em 1em; line-height:2.1em;
+   margin-left: .5em; background-color: #333; color:White; border: 1px solid black;}
+
+.checkout label { display: inline-block; width: 50px; text-align: right;}
+.checkout div input { width: 200px; margin: 2px;}
+#errors { color: red;}

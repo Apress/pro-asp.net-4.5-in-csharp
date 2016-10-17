@@ -1,0 +1,18 @@
+﻿body { font-family: "Arial Narrow", sans-serif;}
+div { margin-bottom: 10px; }
+th, td { text-align: left; }
+td { padding-bottom: 5px; }
+th, table { border-bottom: solid thin black; }
+th:last-child, td:last-child { text-align: right; }
+tr.alternate { background-color: lightgray; }
+
+table.formViewTable { border: none;}
+table.formViewTable td { text-align: center;}
+table.innerTable { width: 100%; }
+table.innerTable, table.innerTable td, table.innerTable th {
+    border: solid thin black; padding: 5px; text-align: left;
+}
+table.innerTable th { width: 40%;}
+table.listViewTable td.price {text-align: right; padding-right: 10px;}
+table.listViewTable td input {width: 75px;}
+table.listViewTable td.error {color: red; text-align: center;}

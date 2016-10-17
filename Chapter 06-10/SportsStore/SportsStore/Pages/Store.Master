@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store.master.cs" 
+    Inherits="SportsStore.Pages.Store" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>SportsStore</title>
+    <link rel="stylesheet" href="/Content/Styles.css" />
+    <%:  System.Web.Optimization.Scripts.Render("~/bundles/validation") %>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <SS:CartSummary ID="CartSummary1" runat="server" />
+            <div class="title">SPORTS STORE</div>
+        </div>
+        <div id="categories">
+            <SS:CatLinks ID="CatLinks1" runat="server" />
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="bodyContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

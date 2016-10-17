@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 33\ServerSideHtml\ServerSideHtml\bin\ServerSideHtml.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 33\ServerSideHtml\ServerSideHtml\bin\ServerSideHtml.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 33\ServerSideHtml\ServerSideHtml\obj\Debug\ServerSideHtml.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 33\ServerSideHtml\ServerSideHtml\obj\Debug\ServerSideHtml.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 33\ServerSideHtml\ServerSideHtml\obj\Debug\ServerSideHtml.pdb

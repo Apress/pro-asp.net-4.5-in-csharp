@@ -1,0 +1,33 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\SportsStore.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\EntityFramework.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\EntityFramework.xml
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\Antlr3.Runtime.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\System.Web.Optimization.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Scratch Code\SportsStore\SportsStore\bin\WebGrease.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\SportsStore.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\Antlr3.Runtime.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\EntityFramework.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\System.Web.Optimization.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\WebGrease.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\bin\EntityFramework.xml
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 06-10\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\SportsStore.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\SportsStore.pdb
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\Antlr3.Runtime.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\EntityFramework.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\System.Web.Optimization.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\WebGrease.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\bin\EntityFramework.xml
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+C:\Users\adam\Desktop\SportStore\SportsStore\SportsStore\obj\Debug\SportsStore.pdb

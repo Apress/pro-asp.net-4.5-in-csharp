@@ -1,0 +1,9 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\bin\ClientDev.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\bin\ClientDev.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\bin\Antlr3.Runtime.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\bin\System.Web.Optimization.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\bin\WebGrease.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\obj\Debug\ClientDev.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\obj\Debug\ClientDev.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 39\ClientDev\ClientDev\obj\Debug\ClientDev.pdb

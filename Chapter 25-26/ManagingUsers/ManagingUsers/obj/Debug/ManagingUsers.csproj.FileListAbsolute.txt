@@ -1,0 +1,11 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 25\ManagingUsers\ManagingUsers\bin\ManagingUsers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 25\ManagingUsers\ManagingUsers\bin\ManagingUsers.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 25\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 25\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 25\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 26\ManagingUsers\ManagingUsers\bin\ManagingUsers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 26\ManagingUsers\ManagingUsers\bin\ManagingUsers.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 26\ManagingUsers\ManagingUsers\bin\System.Web.Providers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 26\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 26\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 26\ManagingUsers\ManagingUsers\obj\Debug\ManagingUsers.pdb

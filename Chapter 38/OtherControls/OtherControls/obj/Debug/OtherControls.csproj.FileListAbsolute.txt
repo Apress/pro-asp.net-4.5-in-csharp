@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 38\OtherControls\OtherControls\bin\OtherControls.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 38\OtherControls\OtherControls\bin\OtherControls.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 38\OtherControls\OtherControls\obj\Debug\OtherControls.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 38\OtherControls\OtherControls\obj\Debug\OtherControls.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 38\OtherControls\OtherControls\obj\Debug\OtherControls.csprojResolveAssemblyReference.cache

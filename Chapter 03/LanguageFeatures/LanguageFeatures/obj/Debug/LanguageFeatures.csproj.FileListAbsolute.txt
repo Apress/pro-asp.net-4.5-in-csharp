@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 03\LanguageFeatures\LanguageFeatures\bin\LanguageFeatures.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 03\LanguageFeatures\LanguageFeatures\bin\LanguageFeatures.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 03\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 03\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 03\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.pdb

@@ -1,0 +1,5 @@
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 12\WebForms\WebForms\bin\WebForms.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 12\WebForms\WebForms\bin\WebForms.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 12\WebForms\WebForms\obj\Debug\WebForms.dll
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 12\WebForms\WebForms\obj\Debug\WebForms.pdb
+C:\Users\adam\Documents\Books\Pro ASP.NET 4.5\Source Code\Chapter 12\WebForms\WebForms\obj\Debug\WebForms.csprojResolveAssemblyReference.cache
